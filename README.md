@@ -1,2 +1,1 @@
-# curd
-this is collage progect
+# php-crud
